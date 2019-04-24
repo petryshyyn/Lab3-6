@@ -1,0 +1,10 @@
+ua\lviv\iot\Main.class
+ua\lviv\iot\Stationery\Enams\Quality.class
+ua\lviv\iot\Stationery\Enams\Notebook.class
+ua\lviv\iot\StationeryManager\StationeryManagerImpl.class
+ua\lviv\iot\Stationery\Enams\Folder.class
+ua\lviv\iot\Stationery\Stationary.class
+ua\lviv\iot\Stationery\Writing.class
+ua\lviv\iot\Stationery\DevicesForReading.class
+ua\lviv\iot\Stationery\Enams\Book.class
+ua\lviv\iot\Stationery\StorageAccessories.class
